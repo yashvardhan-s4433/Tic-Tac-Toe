@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+The Tic Tac Toe game is a two-player strategic board game developed using Python and the Pygame library. The game board consists of a 3x3 grid where players take turns marking their spots, aiming to get three in a row. The game features intuitive graphics, player move validation, and winning condition checks. The grid is automatically updated after each move, and the game highlights the winning line when a player wins. The game is reset automatically after completion, allowing players to start a new match without restarting the program.
